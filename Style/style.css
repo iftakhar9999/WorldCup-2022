@@ -143,8 +143,5 @@ footer h2 {
     display: grid;
     grid-template-columns: 1fr;
    }
-  .last-footer{
-    display: flex;
-    flex-direction: column;
-   }
+
   }
